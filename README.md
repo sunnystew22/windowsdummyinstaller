@@ -4,7 +4,7 @@
 WindowsDummyInstaller or WDI for short is a program that installs useful programs with just a double click.
 
 ## What programs does it install?
-WDI currently installs the following programs: qBittorrent, PotPlayer, Notepad++, 7-Zip, and ProtonVPN
+WDI currently installs the following programs: qBittorrent, PotPlayer, Notepad++, 7-Zip, ProtonVPN, Mediainfo, ShareX
 
 ## What are the requirements?
 Windows 7 or higher, PowerShell 3, and .NET Framework 4.5
